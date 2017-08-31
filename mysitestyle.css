@@ -1,5 +1,5 @@
 body {
-        background: url('background.jpg') no-repeat center center fixed;
+        background: url('./background.jpg') no-repeat center center fixed;
         background-size: cover; /* for IE9+, Safari 4.1+, Chrome 3.0+, Firefox 3.6+ */
   }
 h1{

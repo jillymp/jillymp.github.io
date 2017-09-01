@@ -1,18 +1,7 @@
-body, html {
-    height: 100%;
-}
-
-.bg { 
-    /* The image used */
+body {
     background-image: url("jillymp.github.io/background copy.jpg");
-
-    /* Full height */
-    height: 100%; 
-
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: #cccccc;
+}
 }
 h1{
 	font-family: "Helvetica";

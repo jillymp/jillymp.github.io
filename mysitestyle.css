@@ -1,9 +1,5 @@
 div {
-  width:80vw;
-  height:80vh;
-  display:table-cell;
-  vertical-align:middle;
-  text-align:center;
+   background-size: cover
 }
 img {
   max-width:100%;

@@ -1,26 +1,18 @@
-body, html {
-    height: 100%;
+body { 
+  background: url(backgroundcopy.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
-.bg { 
-    /* The image used */
-    background-image: url("jillymp.github.io/background copy.jpg");
-
-    /* Full height */
-    height: 100%; 
-
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 h1{
-	font-family: "Helvetica";
-	font-style: italic;
+    font-family: "Helvetica";
+    font-style: italic;
 }
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color:  #cccccc;
+    background-color:  #00cccccc;
 }
 
 /* Style the links inside the navigation bar */
@@ -38,7 +30,7 @@ h1{
 
 /* Change the color of links on hover */
 .topnav a:hover {
-    background-color: lightblue;
+    background-color:E6E6E6;
     color: white;
 }
 
@@ -47,3 +39,4 @@ h1{
     background-color: lightblue;
     color: white;
 }
+
